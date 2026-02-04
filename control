@@ -1,0 +1,9 @@
+Package: dev.mineek.muffinsync
+Name: muffinsync
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Data sync for applications using mCloud
+Maintainer: Mineek
+Author: Mineek
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
